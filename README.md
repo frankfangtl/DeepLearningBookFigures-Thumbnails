@@ -54,10 +54,11 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
 # ABOUT THE FIGURES 
 
   The book is illustrated with roughly 1000 original figures. Most were drawn
-  by the author in Adobe Illustrator. A few were drawn in Photoshop.
+  by the author in Adobe Illustrator. A few were drawn in Photoshop. All 
+  are available here in PNG format.
   
   Most of these images are saved at high resolution (300 dpi or better), so
-  they are appropriate for presentaitons and talks even when projected
+  they are appropriate for presentations and talks even when projected
   to large size.
   
   All of these figures are released under the MIT license, like the code. This
@@ -76,7 +77,7 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
   state, "Free for commercial use. No attribution required."
   
   To help you better sort through and choose figures, thumbnails for all 
-  the figures are available in one repo:
+  the figures are available.
   
 ### Thumbnails for all figures:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Thumbnails
