@@ -69,7 +69,9 @@
   state, "Free for commercial use. No attribution required."
   
   To help you better sort through and choose figures, thumbnails for all 
-  the figures are available at
+  the figures are available in one repo:
+  
+### Thumbnails for all figures:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Thumbnails
   
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
