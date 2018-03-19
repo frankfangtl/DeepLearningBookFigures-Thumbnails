@@ -2,12 +2,14 @@
 
 ## Books available from Amazon
 
+## Buy [Volume 1](http://amzn.to/2F4nz7k)
+## Buy [Volume 2](http://amzn.to/2EQtPR2)
+
+## Free Kindle Apps
+
 The books are available from Amazon in Kindle form. Amazon makes a
 free Kindle reader for practically anything with a screen. You can
 download them at https://www.amazon.com/kindle-dbs/fd/kcp
-
-## Buy [Volume 1](http://amzn.to/2F4nz7k)
-## Buy [Volume 2](http://amzn.to/2EQtPR2)
 
 ## Jupyter notebooks and Figures
 
